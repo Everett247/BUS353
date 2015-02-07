@@ -106,4 +106,3 @@ Stopwatch.prototype.start = function() {
 	};
 
 win.open();
-
